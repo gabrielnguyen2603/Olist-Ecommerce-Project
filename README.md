@@ -1,4 +1,4 @@
-# Olist E-Commerce BI Platform
+# Olist E-Commerce 
 
 An end-to-end analytics project that converts raw Brazilian marketplace transactions into decision-ready intelligence using SQL and Power BI.
 
