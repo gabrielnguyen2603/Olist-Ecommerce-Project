@@ -10,7 +10,7 @@ This document summarizes **valuable insights**, **actionable ideas**, and **indu
 
 **Question answered:** *What is the overall business health, and where are the biggest opportunities and risks?*
 
-
+<img width="1320" height="743" alt="image" src="https://github.com/user-attachments/assets/94cfe39a-1517-44ba-926d-2db414796d72" />
 
 ### The story in numbers
 
@@ -46,6 +46,7 @@ This document summarizes **valuable insights**, **actionable ideas**, and **indu
 ## Dashboard 2 — Customer & Retention Intelligence
 
 **Question answered:** *Who are our customers, how often do they buy, and how much do we retain them?*
+<img width="1347" height="805" alt="Screenshot 2026-02-19 132344" src="https://github.com/user-attachments/assets/61fbcd42-0a07-4461-ba7e-aa0a5526a81d" />
 
 ### The story: strong acquisition, weak retention (“leaky bucket”)
 
@@ -102,6 +103,7 @@ In practice: **CAC is not converting into CLTV**; growth is dependent on continu
 ## Dashboard 3 — Operations & Customer Experience Command Center
 
 **Question answered:** *Are we operationally reliable, and where are we losing customer trust?*
+<img width="1323" height="737" alt="Screenshot 2026-02-19 174606" src="https://github.com/user-attachments/assets/4c63853c-bd11-40d3-ab5d-c01c51a4b37e" />
 
 ### 1. Late orders and scaling pressure
 
@@ -146,6 +148,7 @@ In practice: **CAC is not converting into CLTV**; growth is dependent on continu
 ## Dashboard 4 — Revenue & Commercial Performance
 
 **Question answered:** *What drives revenue quality, and which commercial actions should leadership approve?*
+<img width="1318" height="742" alt="Screenshot 2026-02-19 185120" src="https://github.com/user-attachments/assets/549e528b-6bf8-4b93-8e5a-ab61e845d06c" />
 
 ### 1. Payment economics (numeric snapshot)
 
@@ -181,15 +184,15 @@ In practice: **CAC is not converting into CLTV**; growth is dependent on continu
 
 | Category                              | Total revenue (approx.) | Revenue growth % | Freight % of product value | Priority                     |
 | ------------------------------------- | ----------------------- | ---------------- | -------------------------- | ---------------------------- |
-| health_beauty                         | 1.4M                    | —                | —                          | Top line; protect.           |
+| health_beauty                         | 1.4M                    | **264.18%**      | **14.51%**                 | Top line; protect.           |
 | watches_gifts                         | 1.3M                    | **275.57%**      | **8.42%**                  | Grow; favorable freight.     |
-| bed_bath_table                        | 1.2M                    | —                | —                          | Top line; protect.           |
+| bed_bath_table                        | 1.2M                    | **193.66%**      | **19.72%**                 | Top line; protect.           |
 | sports_leisure                        | 1.1M                    | **200.28%**      | **17.11%**                 | Solid; monitor freight.      |
 | telephony                             | 379K                    | **215.11%**      | **22.38%**                 | **Freight reduction.**       |
 | stationery                            | 270K                    | **347.88%**      | **20.46%**                 | **Freight reduction.**       |
 | signaling_and_security                | 28K                     | **642.27%**      | **30.39%**                 | **Highest freight; urgent.** |
 | small_appliances_home_oven_and_coffee | 49K                     | **6087.68%**     | **5.70%**                  | Scale; replicate model.      |
-| security_and_services                 | —                       | **0.00%**        | 14.55%                     | **Investigate stagnation.**  |
+| security_and_services                 | 0.324K                  | **0.00%**        | 14.55%                     | **Investigate stagnation.**  |
 
 
 - **Actions:**
