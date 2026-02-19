@@ -1,0 +1,35 @@
+# Data files and directories
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.jsonl
+*.tsv
+*.txt
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
